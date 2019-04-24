@@ -1,0 +1,67 @@
+Id	Book	Code	Chapters	Genre
+1	Genesis	GEN	50	historical
+2	Exodus	EXO	40	historical
+3	Leviticus	LEV	27	law
+4	Numbers	NUM	36	law
+5	Deuteronomy	DEU	34	law
+6	Joshua	JOS	24	historical
+7	Judges	JDG	21	historical
+8	Ruth	RUT	4	historical
+9	1 Samuel	1SA	31	historical
+10	2 Samuel	2SA	24	historical
+11	1 Kings	1KI	22	historical
+12	2 Kings	2KI	25	historical
+13	1 Chronicles	1CH	29	historical
+14	2 Chronicles	2CH	36	historical
+15	Ezra	EZR	10	historical
+16	Nehemiah	NEH	13	historical
+17	Esther	EST	10	historical
+18	Job	JOB	42	wisdom
+19	Psalms	PSA	150	lyric
+20	Proverbs	PRO	31	wisdom
+21	Ecclesiastes	ECC	12	wisdom
+22	Song of Solomon	SON	8	lyric
+23	Isaiah	ISA	66	apocalyptic
+24	Jeremiah	JER	52	prophecy
+25	Lamentations	LAM	5	lyric
+26	Ezekiel	EZE	48	prophecy
+27	Daniel	DAN	12	prophecy
+28	Hosea	HOS	14	prophecy
+29	Joel	JOE	3	prophecy
+30	Amos	AMO	9	prophecy
+31	Obadiah	OBA	1	prophecy
+32	Jonah	JON	4	historical
+33	Micah	MIC	7	prophecy
+34	Nahum	NAH	3	prophecy
+35	Habakkuk	HAB	3	prophecy
+36	Zephaniah	ZEP	3	prophecy
+37	Haggai	HAG	2	prophecy
+38	Zechariah	ZEC	14	prophecy
+39	Malachi	MAL	4	prophecy
+40	Matthew	MAT	28	Gospel
+41	Mark	MAR	16	Gospel
+42	Luke	LUK	24	Gospel
+43	John	JOH	21	Gospel
+44	Acts	ACT	28	Gospel
+45	Romans	ROM	16	letter
+46	1 Corinthians	1CO	16	letter
+47	2 Corinthians	2CO	13	letter
+48	Galatians	GAL	6	letter
+49	Ephesians	EPH	6	letter
+50	Philippians	PHI	4	letter
+51	Colossians	COL	4	letter
+52	1 Thessalonians	1TH	5	letter
+53	2 Thessalonians	2TH	3	letter
+54	1 Timothy	1TI	6	letter
+55	2 Timothy	2TI	4	letter
+56	Titus	TIT	3	letter
+57	Philemon	PHM	1	letter
+58	Hebrews	HEB	13	letter
+59	James	JAM	5	letter
+60	1 Peter	1PE	5	letter
+61	2 Peter	2PE	3	letter
+62	1 John	1JO	5	letter
+63	2 John	2JO	1	letter
+64	3 John	3JO	1	letter
+65	Jude	JUD	1	letter
+66	Revelation	REV	22	apocalyptic
