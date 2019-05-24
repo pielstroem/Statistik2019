@@ -6,11 +6,11 @@
 
 Sie können dafür folgende Formel verwenden:
 
-$ t = \frac{\bar{X}_1 - \bar{X}_2}{s_p \sqrt\frac{2}{n}} $
+$$ t = \frac{\bar{X}_1 - \bar{X}_2}{s_p \sqrt\frac{2}{n}} $$
 
 wobei:
 
-$ s_p = \sqrt{\frac{s_{X_1}^2+s_{X_2}^2}{2}} $
+$$ s_p = \sqrt{\frac{s_{X_1}^2+s_{X_2}^2}{2}} $$
 
 Eine ausführliche (wenngleich nicht wissenschaftlich zitierbare) Erläuterung finden sie in der [Wikipedia](https://en.wikipedia.org/wiki/Student%27s_t-test)
 
